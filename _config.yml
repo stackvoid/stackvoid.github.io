@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://stackvoid.github.io
+name: StackVoid
+author: stackvoid
+email: pfming1989@gmail.com
+duoshuo: stackvoid
+cnzz: 1000413857
+weibo: 539110127
+github: stackvoid
+pygments: true
+safe: true
+paginate: 20
+about: "Stackvoid's Attitude."
